@@ -148,11 +148,10 @@ from the Head of Operations:
 ---
 
 ##  Author
-**Aiswarya KP** — Aspiring Data Analyst
+**Ramavath Manasa** — Aspiring Data Analyst
 
--  Email: aiswaryakp104@gmail.com
--  LinkedIn: [linkedin.com/in/aiswarya-k-p](https://linkedin.com/in/aiswarya-k-p)
--  GitHub: [github.com/Aiswaryakp799](https://github.com/Aiswaryakp799)
+-  Email: manasaramavath3@gmail.com
+-  GitHub: [github.com/Manasa2807](https://github.com/Manasa2807)
 
 ---
 
